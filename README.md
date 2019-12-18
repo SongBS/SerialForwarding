@@ -1,14 +1,13 @@
 # SerialForwarding
 > 2개의 시리얼 통신을 서로 연결해주는 유틸리티
 
-## Build 
-> 터미널 실행
-```
+## Build Setup
+``` bash
+# run
 python SF_main.py
-```
 
-> 실행파일 생성 
-```
+# generate exe
 pyinstaller.exe --noconsole --onefile SF_main.py
 ```
+
 
