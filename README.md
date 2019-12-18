@@ -1,5 +1,7 @@
 # SerialForwarding
 > Utility to connect two serial communications.
+> python 2.7 
+> pyqt 4.10
 
 ## Build Setup
 ``` bash
