@@ -1,5 +1,5 @@
 # SerialForwarding
-> 2개의 시리얼 통신을 서로 연결해주는 유틸리티
+> Utility to connect two serial communications.
 
 ## Build Setup
 ``` bash
