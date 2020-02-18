@@ -1,8 +1,8 @@
 # SerialForwarding
-* 2개의(Host/Remote) 시리얼통신을 서로 연결해주는 유틸리티 
-* Host 와 Remote 의 송수신 메시지를 서로 연결 
+* 2개의(Host/Remote) 시리얼통신을 연결하여 서로 연결해주는 유틸리티.
+* 임베디드 개발 및 시험 환경에서 2개 장치의 시리얼통신 스펙이 다른경우에 사용하기 위해 
 
-## Develop Tools
+## Development Environment
 > PYTHON 2.7, PyQT 4.10
 
 ## TODO::
